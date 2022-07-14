@@ -1,5 +1,3 @@
 # Ecommerce-1
+The world is earth that we live on
 
-Welcome to the world of ninjas🪂
-Hello to github :)
-More Lines Added to Code 
